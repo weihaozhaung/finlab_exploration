@@ -19,7 +19,7 @@
 ### Futures H-model
 
 
-## Step 3. Adjust Positioning to improve strategies
+## Step 3. Adjust Positioning to improve strategies and apply some trading filters
 
 
 ## Step 4. Apply ML
